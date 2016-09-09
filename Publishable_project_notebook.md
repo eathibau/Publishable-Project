@@ -216,7 +216,7 @@
 <div id='id-section1'/>
 ### Page 1: 2016-09-09. Keller Lab Meeting
 
-Here is my webpage: (Ethan)(https://adnguyen.github.io/)
+Here is my webpage: [Ethan](https://adnguyen.github.io/)
 
 Here is the code for adding images
 ```
@@ -229,7 +229,7 @@ This is code for adding images
 
 ![](https://c2.staticflickr.com/8/7121/7030209141_e934127ef7_b.jpg?resize=160,160&strip=all&quality=50)
 
-Check out this cool (video)(https://www.youtube.com/watch?v=kg_EYc3SFuQ)
+Check out this cool [video](https://www.youtube.com/watch?v=kg_EYc3SFuQ)
 
 ------
 <div id='id-section2'/>

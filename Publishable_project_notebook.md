@@ -227,6 +227,10 @@ This is code for adding images
 
 ![](https://cloud.githubusercontent.com/assets/22087863/18391105/d937fa3e-767a-11e6-975e-d3b89d414ba4.jpg)
 
+![](https://c2.staticflickr.com/8/7121/7030209141_e934127ef7_b.jpg?resize=160,160&strip=all&quality=50)
+
+Check out this cool (video)(https://www.youtube.com/watch?v=kg_EYc3SFuQ)
+
 ------
 <div id='id-section2'/>
 ### Page 2: 2016-06-16 title 

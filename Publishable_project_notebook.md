@@ -225,7 +225,7 @@ This is code for adding images
 ```
 ![](http://thehoneytreenursery.com/images/emperor1.jpg)
 
-
+![](https://cloud.githubusercontent.com/assets/22087863/18391105/d937fa3e-767a-11e6-975e-d3b89d414ba4.jpg)
 
 ------
 <div id='id-section2'/>
